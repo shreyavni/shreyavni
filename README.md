@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Avni Shukla
-**A passionate Sotware Engineer **
+** A passionate Sotware Engineer **
 
 Email Me 👉 ✉️ **avnireeta@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
