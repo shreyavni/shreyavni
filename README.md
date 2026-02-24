@@ -1,4 +1,4 @@
-![Header Image](https://github.com/shreyavni/shreyavni/blob/main/assets/header.png)
+![Header Image](https://github.com/shreyavni/shreyavni/blob/main/header.png)
 # 💫 Hi 👋, I'm Avni Shukla
 
 **Aspiring Software Engineer | Building Scalable Web Apps | Real-world Solutions**
